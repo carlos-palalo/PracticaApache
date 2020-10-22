@@ -18,7 +18,7 @@ if (isset($_SESSION['logueado'])) {
                 <a class="verde" href="../Privado1/tirada_dados.php">TIRADA</a>
                 <a class="rojo" href="../Privado2/sumar_7.php">SUMA 7</a>
                 <a class="verde" href="../Privado3/par_impar.php">PAR/IMPAR</a>
-                <a class="rojo" href="">ACERCA DE</a>
+                <a class="rojo" href="acercade.php">ACERCA DE</a>
             </nav>
         </body>
     </html>';
