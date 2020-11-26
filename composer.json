@@ -1,0 +1,10 @@
+{
+    "name": "daw/practica-apache",
+    "authors": [
+        {
+            "name": "carlos-palalo",
+            "email": "carlos-palalo@gmail.com"
+        }
+    ],
+    "require": {}
+}
